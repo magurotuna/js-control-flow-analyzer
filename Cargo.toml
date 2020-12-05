@@ -10,3 +10,4 @@ edition = "2018"
 swc_atoms = "0.2.5"
 swc_common = "0.10.6"
 swc_ecmascript = { version = "0.14.4", features = ["parser", "transforms", "utils", "visit"] }
+typed-arena = "2.0.1"
